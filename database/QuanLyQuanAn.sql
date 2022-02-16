@@ -1,0 +1,116 @@
+USE [master]
+GO
+
+/****** Object:  Database [Management_Restaurant]    Script Date: 14/01/21 9:17:15 PM ******/
+CREATE DATABASE [Management_Restaurant]
+ CONTAINMENT = NONE
+ ON  PRIMARY 
+( NAME = N'Management_Restaurant', FILENAME = N'E:\Program File\Microsoft SQL Server 2019\MSSQL15.MSSQLSERVER\MSSQL\DATA\Management_Restaurant.mdf' , SIZE = 8192KB , MAXSIZE = UNLIMITED, FILEGROWTH = 65536KB )
+ LOG ON 
+( NAME = N'Management_Restaurant_log', FILENAME = N'E:\Program File\Microsoft SQL Server 2019\MSSQL15.MSSQLSERVER\MSSQL\DATA\Management_Restaurant_log.ldf' , SIZE = 8192KB , MAXSIZE = 2048GB , FILEGROWTH = 65536KB )
+ WITH CATALOG_COLLATION = DATABASE_DEFAULT
+GO
+
+IF (1 = FULLTEXTSERVICEPROPERTY('IsFullTextInstalled'))
+begin
+EXEC [Management_Restaurant].[dbo].[sp_fulltext_database] @action = 'enable'
+end
+GO
+
+ALTER DATABASE [Management_Restaurant] SET ANSI_NULL_DEFAULT OFF 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET ANSI_NULLS OFF 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET ANSI_PADDING OFF 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET ANSI_WARNINGS OFF 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET ARITHABORT OFF 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET AUTO_CLOSE OFF 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET AUTO_SHRINK OFF 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET AUTO_UPDATE_STATISTICS ON 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET CURSOR_CLOSE_ON_COMMIT OFF 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET CURSOR_DEFAULT  GLOBAL 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET CONCAT_NULL_YIELDS_NULL OFF 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET NUMERIC_ROUNDABORT OFF 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET QUOTED_IDENTIFIER OFF 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET RECURSIVE_TRIGGERS OFF 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET  DISABLE_BROKER 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET AUTO_UPDATE_STATISTICS_ASYNC OFF 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET DATE_CORRELATION_OPTIMIZATION OFF 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET TRUSTWORTHY OFF 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET ALLOW_SNAPSHOT_ISOLATION OFF 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET PARAMETERIZATION SIMPLE 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET READ_COMMITTED_SNAPSHOT OFF 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET HONOR_BROKER_PRIORITY OFF 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET RECOVERY SIMPLE 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET  MULTI_USER 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET PAGE_VERIFY CHECKSUM  
+GO
+
+ALTER DATABASE [Management_Restaurant] SET DB_CHAINING OFF 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET FILESTREAM( NON_TRANSACTED_ACCESS = OFF ) 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET TARGET_RECOVERY_TIME = 60 SECONDS 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET DELAYED_DURABILITY = DISABLED 
+GO
+
+ALTER DATABASE [Management_Restaurant] SET ACCELERATED_DATABASE_RECOVERY = OFF  
+GO
+
+ALTER DATABASE [Management_Restaurant] SET QUERY_STORE = OFF
+GO
+
+ALTER DATABASE [Management_Restaurant] SET  READ_WRITE 
+GO
+
+

@@ -1,0 +1,425 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{052C96F7-2C09-42E1-9659-2E5890A18775}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Management_Restaurant</RootNamespace>
+    <AssemblyName>Management_Restaurant</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BCrypt.Net, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\BCrypt.Net-PCL.1.0.1\lib\portable-net45+win+wpa81+wp80+MonoAndroid10+xamarinios10+MonoTouch10\BCrypt.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.3\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\AnalyticsBLL.cs" />
+    <Compile Include="BLL\AreaBLL.cs" />
+    <Compile Include="BLL\Connection.cs" />
+    <Compile Include="BLL\DepartmentBLL.cs" />
+    <Compile Include="BLL\EmloyeeDepartmentBLL.cs" />
+    <Compile Include="BLL\EmployeeBLL.cs" />
+    <Compile Include="BLL\MenuBLL.cs" />
+    <Compile Include="BLL\MenuItemBLL.cs" />
+    <Compile Include="BLL\OrderBLL.cs" />
+    <Compile Include="BLL\TableBLL.cs" />
+    <Compile Include="BLL\UserBLL.cs" />
+    <Compile Include="DAL\Area.cs" />
+    <Compile Include="DAL\Department.cs" />
+    <Compile Include="DAL\Employee.cs" />
+    <Compile Include="DAL\EmployeeDepartment.cs" />
+    <Compile Include="DAL\Menu.cs" />
+    <Compile Include="DAL\MenuItem.cs" />
+    <Compile Include="DAL\ModelQLQuanAn.cs" />
+    <Compile Include="DAL\Order.cs" />
+    <Compile Include="DAL\OrderDetail.cs" />
+    <Compile Include="DAL\OrderTable.cs" />
+    <Compile Include="DAL\sysdiagram.cs" />
+    <Compile Include="DAL\Table.cs" />
+    <Compile Include="GUI\Admin\ChucVu_NhanVien\frm_AddChucVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\ChucVu_NhanVien\frm_AddChucVu.Designer.cs">
+      <DependentUpon>frm_AddChucVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Admin\ChucVu_NhanVien\frm_AddNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\ChucVu_NhanVien\frm_AddNhanVien.Designer.cs">
+      <DependentUpon>frm_AddNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Admin\ChucVu_NhanVien\frm_EditChucVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\ChucVu_NhanVien\frm_EditChucVu.Designer.cs">
+      <DependentUpon>frm_EditChucVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Admin\ChucVu_NhanVien\frm_EditNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\ChucVu_NhanVien\frm_EditNhanVien.Designer.cs">
+      <DependentUpon>frm_EditNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Admin\ChucVu_NhanVien\frm_ThietLapPhongBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\ChucVu_NhanVien\frm_ThietLapPhongBan.Designer.cs">
+      <DependentUpon>frm_ThietLapPhongBan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Admin\Menu\frm_AddMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\Menu\frm_AddMenu.Designer.cs">
+      <DependentUpon>frm_AddMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Admin\Menu\frm_AddMonAn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\Menu\frm_AddMonAn.Designer.cs">
+      <DependentUpon>frm_AddMonAn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Admin\Menu\frm_ThietLapMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\Menu\frm_ThietLapMenu.Designer.cs">
+      <DependentUpon>frm_ThietLapMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Admin\RestaurantSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\RestaurantSetup.Designer.cs">
+      <DependentUpon>RestaurantSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Control\MenuItemControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\Control\MenuItemControl.Designer.cs">
+      <DependentUpon>MenuItemControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Control\SelectMenuItemControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\Control\SelectMenuItemControl.Designer.cs">
+      <DependentUpon>SelectMenuItemControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Control\TableControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\Control\TableControl.Designer.cs">
+      <DependentUpon>TableControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Admin\Customer_Table\frm_AddBanAn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\Customer_Table\frm_AddBanAn.Designer.cs">
+      <DependentUpon>frm_AddBanAn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Admin\Customer_Table\frm_AddKhuVuc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\Customer_Table\frm_AddKhuVuc.Designer.cs">
+      <DependentUpon>frm_AddKhuVuc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Admin\Customer_Table\frm_EditBanAn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\Customer_Table\frm_EditBanAn.Designer.cs">
+      <DependentUpon>frm_EditBanAn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Admin\Customer_Table\frm_EditKhuVuc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\Customer_Table\frm_EditKhuVuc.Designer.cs">
+      <DependentUpon>frm_EditKhuVuc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Admin\Customer_Table\frm_ThiepLapBanAn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Admin\Customer_Table\frm_ThiepLapBanAn.Designer.cs">
+      <DependentUpon>frm_ThiepLapBanAn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frm_ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frm_ChangePassword.Designer.cs">
+      <DependentUpon>frm_ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frm_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frm_Main.Designer.cs">
+      <DependentUpon>frm_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frm_MainUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frm_MainUser.Designer.cs">
+      <DependentUpon>frm_MainUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frm_ThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frm_ThongKe.Designer.cs">
+      <DependentUpon>frm_ThongKe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GlobalData.cs" />
+    <Compile Include="GUI\frm_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frm_Login.Designer.cs">
+      <DependentUpon>frm_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\User\frm_AddGiamGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\User\frm_AddGiamGia.Designer.cs">
+      <DependentUpon>frm_AddGiamGia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\User\frm_AddVAT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\User\frm_AddVAT.Designer.cs">
+      <DependentUpon>frm_AddVAT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\User\frm_BoSung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\User\frm_BoSung.Designer.cs">
+      <DependentUpon>frm_BoSung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\User\frm_ChangeTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\User\frm_ChangeTable.Designer.cs">
+      <DependentUpon>frm_ChangeTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\User\frm_Order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\User\frm_Order.Designer.cs">
+      <DependentUpon>frm_Order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\User\frm_Table.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\User\frm_Table.Designer.cs">
+      <DependentUpon>frm_Table.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\User\frm_TinhTien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\User\frm_TinhTien.Designer.cs">
+      <DependentUpon>frm_TinhTien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\User\frm_XuatHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\User\frm_XuatHoaDon.Designer.cs">
+      <DependentUpon>frm_XuatHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Utilities\UtilsForm.cs" />
+    <Compile Include="GUI\Utilities\UtilsImage.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GUI\Admin\ChucVu_NhanVien\frm_AddChucVu.resx">
+      <DependentUpon>frm_AddChucVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Admin\ChucVu_NhanVien\frm_AddNhanVien.resx">
+      <DependentUpon>frm_AddNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Admin\ChucVu_NhanVien\frm_EditChucVu.resx">
+      <DependentUpon>frm_EditChucVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Admin\ChucVu_NhanVien\frm_EditNhanVien.resx">
+      <DependentUpon>frm_EditNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Admin\ChucVu_NhanVien\frm_ThietLapPhongBan.resx">
+      <DependentUpon>frm_ThietLapPhongBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Admin\Menu\frm_AddMenu.resx">
+      <DependentUpon>frm_AddMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Admin\Menu\frm_AddMonAn.resx">
+      <DependentUpon>frm_AddMonAn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Admin\Menu\frm_ThietLapMenu.resx">
+      <DependentUpon>frm_ThietLapMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Admin\RestaurantSetup.resx">
+      <DependentUpon>RestaurantSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Control\MenuItemControl.resx">
+      <DependentUpon>MenuItemControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Control\SelectMenuItemControl.resx">
+      <DependentUpon>SelectMenuItemControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Control\TableControl.resx">
+      <DependentUpon>TableControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Admin\Customer_Table\frm_AddBanAn.resx">
+      <DependentUpon>frm_AddBanAn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Admin\Customer_Table\frm_AddKhuVuc.resx">
+      <DependentUpon>frm_AddKhuVuc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Admin\Customer_Table\frm_EditBanAn.resx">
+      <DependentUpon>frm_EditBanAn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Admin\Customer_Table\frm_EditKhuVuc.resx">
+      <DependentUpon>frm_EditKhuVuc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Admin\Customer_Table\frm_ThiepLapBanAn.resx">
+      <DependentUpon>frm_ThiepLapBanAn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frm_ChangePassword.resx">
+      <DependentUpon>frm_ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frm_Login.resx">
+      <DependentUpon>frm_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frm_Main.resx">
+      <DependentUpon>frm_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frm_MainUser.resx">
+      <DependentUpon>frm_MainUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frm_ThongKe.resx">
+      <DependentUpon>frm_ThongKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\User\frm_AddGiamGia.resx">
+      <DependentUpon>frm_AddGiamGia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\User\frm_AddVAT.resx">
+      <DependentUpon>frm_AddVAT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\User\frm_BoSung.resx">
+      <DependentUpon>frm_BoSung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\User\frm_ChangeTable.resx">
+      <DependentUpon>frm_ChangeTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\User\frm_Order.resx">
+      <DependentUpon>frm_Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\User\frm_Table.resx">
+      <DependentUpon>frm_Table.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\User\frm_TinhTien.resx">
+      <DependentUpon>frm_TinhTien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\User\frm_XuatHoaDon.resx">
+      <DependentUpon>frm_XuatHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loginBG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\malamen-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f12c46485efa00faa633a74fdc6ea134.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+</Project>

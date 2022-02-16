@@ -1,0 +1,206 @@
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\bin\Debug\Management_Restaurant.exe.config
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\bin\Debug\Management_Restaurant.exe
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\bin\Debug\Management_Restaurant.pdb
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\bin\Debug\BCrypt.Net.dll
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\bin\Debug\EntityFramework.dll
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\bin\Debug\EntityFramework.SqlServer.dll
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\bin\Debug\System.Buffers.dll
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\bin\Debug\System.Memory.dll
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\bin\Debug\System.Numerics.Vectors.dll
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\bin\Debug\EntityFramework.xml
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\bin\Debug\EntityFramework.SqlServer.xml
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\bin\Debug\System.Buffers.xml
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\bin\Debug\System.Memory.xml
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\bin\Debug\System.Numerics.Vectors.xml
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.csprojAssemblyReference.cache
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.Form1.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.Properties.Resources.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.csproj.GenerateResource.cache
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.csproj.CoreCompileInputs.cache
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.csproj.CopyComplete
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.exe
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.pdb
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.ChucVu_NhanVien.frm_AddChucVu.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.ChucVu_NhanVien.frm_AddNhanVien.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.ChucVu_NhanVien.frm_EditChucVu.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.ChucVu_NhanVien.frm_EditNhanVien.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.ChucVu_NhanVien.frm_ThietLapPhongBan.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.RestaurantSetup.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Control.MenuItemControl.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Control.SelectMenuItemControl.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Control.TableControl.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.frm_ChangePassword.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.frm_Main.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Customer_Table.frm_AddBanAn.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Customer_Table.frm_AddKhuVuc.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Customer_Table.frm_EditBanAn.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Customer_Table.frm_EditKhuVuc.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Customer_Table.frm_ThiepLapBanAn.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.Menu.frm_AddMenu.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.Menu.frm_AddMonAn.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.Menu.frm_ThietLapMenu.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_AddGiamGia.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_AddVAT.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_BoSung.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_Order.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_Table.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_TinhTien.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_XuatHoaDon.resources
+D:\2 Kì 1 năm 2020-2021\CNPM\PROJECT\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.frm_ThongKe.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\bin\Debug\Management_Restaurant.exe.config
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\bin\Debug\Management_Restaurant.exe
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\bin\Debug\Management_Restaurant.pdb
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\bin\Debug\BCrypt.Net.dll
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\bin\Debug\EntityFramework.dll
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\bin\Debug\EntityFramework.SqlServer.dll
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\bin\Debug\System.Buffers.dll
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\bin\Debug\System.Memory.dll
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\bin\Debug\System.Numerics.Vectors.dll
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\bin\Debug\EntityFramework.xml
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\bin\Debug\EntityFramework.SqlServer.xml
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\bin\Debug\System.Buffers.xml
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\bin\Debug\System.Memory.xml
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\bin\Debug\System.Numerics.Vectors.xml
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.csprojAssemblyReference.cache
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.ChucVu_NhanVien.frm_AddChucVu.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.ChucVu_NhanVien.frm_AddNhanVien.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.ChucVu_NhanVien.frm_EditChucVu.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.ChucVu_NhanVien.frm_EditNhanVien.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.ChucVu_NhanVien.frm_ThietLapPhongBan.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.Menu.frm_AddMenu.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.Menu.frm_AddMonAn.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.Menu.frm_ThietLapMenu.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.RestaurantSetup.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Control.MenuItemControl.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Control.SelectMenuItemControl.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Control.TableControl.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Customer_Table.frm_AddBanAn.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Customer_Table.frm_AddKhuVuc.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Customer_Table.frm_EditBanAn.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Customer_Table.frm_EditKhuVuc.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Customer_Table.frm_ThiepLapBanAn.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.frm_ChangePassword.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.Form1.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.frm_Main.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.frm_ThongKe.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_AddGiamGia.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_AddVAT.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_BoSung.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_Order.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_Table.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_TinhTien.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_XuatHoaDon.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.Properties.Resources.resources
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.csproj.GenerateResource.cache
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.csproj.CoreCompileInputs.cache
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.csproj.CopyComplete
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.exe
+F:\CN phần mềm\Save Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.pdb
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\bin\Debug\Management_Restaurant.exe.config
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\bin\Debug\Management_Restaurant.exe
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\bin\Debug\Management_Restaurant.pdb
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\bin\Debug\BCrypt.Net.dll
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\bin\Debug\EntityFramework.dll
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\bin\Debug\EntityFramework.SqlServer.dll
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\bin\Debug\System.Buffers.dll
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\bin\Debug\System.Memory.dll
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\bin\Debug\System.Numerics.Vectors.dll
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\bin\Debug\EntityFramework.xml
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\bin\Debug\EntityFramework.SqlServer.xml
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\bin\Debug\System.Buffers.xml
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\bin\Debug\System.Memory.xml
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\bin\Debug\System.Numerics.Vectors.xml
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.csprojAssemblyReference.cache
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.ChucVu_NhanVien.frm_AddChucVu.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.ChucVu_NhanVien.frm_AddNhanVien.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.ChucVu_NhanVien.frm_EditChucVu.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.ChucVu_NhanVien.frm_EditNhanVien.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.ChucVu_NhanVien.frm_ThietLapPhongBan.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.Menu.frm_AddMenu.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.Menu.frm_AddMonAn.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.Menu.frm_ThietLapMenu.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.RestaurantSetup.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Control.MenuItemControl.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Control.SelectMenuItemControl.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Control.TableControl.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Customer_Table.frm_AddBanAn.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Customer_Table.frm_AddKhuVuc.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Customer_Table.frm_EditBanAn.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Customer_Table.frm_EditKhuVuc.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Customer_Table.frm_ThiepLapBanAn.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.frm_ChangePassword.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.Form1.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.frm_Main.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.frm_ThongKe.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_AddGiamGia.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_AddVAT.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_BoSung.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_Order.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_Table.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_TinhTien.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_XuatHoaDon.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.Properties.Resources.resources
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.csproj.GenerateResource.cache
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.csproj.CoreCompileInputs.cache
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.csproj.CopyComplete
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.exe
+F:\CN phần mềm\Project\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.pdb
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\bin\Debug\Management_Restaurant.exe.config
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\bin\Debug\Management_Restaurant.exe
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\bin\Debug\Management_Restaurant.pdb
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\bin\Debug\BCrypt.Net.dll
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\bin\Debug\EntityFramework.dll
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\bin\Debug\EntityFramework.SqlServer.dll
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\bin\Debug\System.Buffers.dll
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\bin\Debug\System.Memory.dll
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\bin\Debug\System.Numerics.Vectors.dll
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\bin\Debug\EntityFramework.xml
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\bin\Debug\EntityFramework.SqlServer.xml
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\bin\Debug\System.Buffers.xml
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\bin\Debug\System.Memory.xml
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\bin\Debug\System.Numerics.Vectors.xml
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.csprojAssemblyReference.cache
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.ChucVu_NhanVien.frm_AddChucVu.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.ChucVu_NhanVien.frm_AddNhanVien.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.ChucVu_NhanVien.frm_EditChucVu.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.ChucVu_NhanVien.frm_EditNhanVien.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.ChucVu_NhanVien.frm_ThietLapPhongBan.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.Menu.frm_AddMenu.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.Menu.frm_AddMonAn.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.Menu.frm_ThietLapMenu.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Admin.RestaurantSetup.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Control.MenuItemControl.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Control.SelectMenuItemControl.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Control.TableControl.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Customer_Table.frm_AddBanAn.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Customer_Table.frm_AddKhuVuc.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Customer_Table.frm_EditBanAn.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Customer_Table.frm_EditKhuVuc.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.Customer_Table.frm_ThiepLapBanAn.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.frm_ChangePassword.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.Form1.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.frm_Main.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.frm_ThongKe.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_AddGiamGia.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_AddVAT.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_BoSung.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_Order.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_Table.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_TinhTien.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_XuatHoaDon.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.Properties.Resources.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.csproj.GenerateResource.cache
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.csproj.CoreCompileInputs.cache
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.csproj.CopyComplete
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.exe
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.pdb
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.User.frm_ChangeTable.resources
+E:\Downloads\Management_Restaurant\Management_Restaurant\Management_Restaurant\obj\Debug\Management_Restaurant.GUI.frm_MainUser.resources
